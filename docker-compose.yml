@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   app:
-    image: pavani123/springsqldockerjenkins
+    image: pavanilekkala123/springsqldockerjenkins
     build:
       context: .
       dockerfile: Dockerfile
